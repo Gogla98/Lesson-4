@@ -23,6 +23,8 @@
 	color: #EE4036;
 }
 .conteiner1 {
+	margin-top: 25px;
+	margin-left: 45px;
 	margin-bottom: 76.9px;
 }
 /*header css end*/
@@ -100,6 +102,12 @@
 
 /*news.html*/
 /*article css start*/
+.news-article {
+	margin-left: 45px;
+}
+.margin {
+	margin-top: 20px;
+}
 .number {
 	width: 49px;
 	height: 49px;
@@ -116,7 +124,57 @@
 }
 .h3 {
 	margin-top: 17.5px;
+	margin-bottom: 17.5px;
 	font-size: 20px;
 	font-family: "ArchyEDT-Bold", sans-serif;
 }
+.img {
+	margin-right: 39px;
+	vertical-align: top;
+}
+.article {
+	width: 930px;
+	display: inline-block;
+	vertical-align: top;
+}
 /*article css end*/
+/*news.html end*/
+
+/*contact.html start*/
+.conteiner-contact {
+	margin-top: 25px;
+	margin-left: 45px;
+	margin-bottom: 40px;
+}
+.section {
+	height: 700px;
+	background-color: #E6E6E6;
+}
+.left-section {
+	width: 261px;
+	display: inline-block;
+	margin-top: 51.5px;
+	margin-right: 63.7px;
+	margin-left: 97.3px;
+	vertical-align: top;
+}
+.h3-contact {
+	font-size: 20;
+	color: #3D58A6;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+.span1 {
+	color: #808080;
+}
+.right-section {
+	margin-top: 39px;
+	display: inline-block;
+	vertical-align: top;
+}
+.footer-contact {
+	margin-left: 100px;
+}
+.footer-contact1 {
+	margin-bottom: 45px;
+}
+/*contact.html end*/
