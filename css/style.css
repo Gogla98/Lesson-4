@@ -98,3 +98,25 @@
 /*footer end*/
 /*index.html*/
 
+/*news.html*/
+/*article css start*/
+.number {
+	width: 49px;
+	height: 49px;
+	background-color: #3D58A6;
+	padding: 10px;
+	font-size: 37px;
+	color: #FFFFFF;
+	margin-bottom: 5px;
+}
+.maisi {
+	font-size: 22px;
+	color: #3D58A6;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+.h3 {
+	margin-top: 17.5px;
+	font-size: 20px;
+	font-family: "ArchyEDT-Bold", sans-serif;
+}
+/*article css end*/
